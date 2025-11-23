@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chicken",
+    "dice": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "image_path": ""
+  },
+  {
+    "name": "Owl",
+    "dice": [
+      3,
+      3,
+      3,
+      3,
+      5,
+      5
+    ],
+    "image_path": ""
+  },
+  {
+    "name": "Snake",
+    "dice": [
+      4,
+      4,
+      6,
+      6,
+      8,
+      8
+    ],
+    "image_path": ""
+  },
+  {
+    "name": "White Tiger",
+    "dice": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "image_path": ""
+  }
+]
